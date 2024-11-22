@@ -1,0 +1,115 @@
+﻿#mainPic {
+    border-radius: 50%;
+    width: 40%;
+}
+
+#titleNav {
+    padding: 3px;
+    padding-bottom: 10px;
+    background-color: #FAF0E6;
+    color: #074016;
+    font-family: Britannic;
+}
+
+#sideBar {
+    text-align: center;
+    font-family: Britannic;
+    color: #483D8B;
+}
+
+/*font for the projects*/
+.col-sm-9 {
+    font-family: Britannic;
+    color: #074016;
+}
+
+/*pictures for the projects*/
+#project1 {
+    float: left;
+    width: 17%;
+}
+
+#project2 {
+    float: left;
+    width: 18%;
+}
+
+#project3 {
+    float: left;
+    width: 18%;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 10px;
+    font-size: 13px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #FFEFD5;
+    background-color: #20B2AA;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px #66CDAA;
+}
+
+    .button:hover {
+        background-color: #8FBC8F;
+    }
+
+    .button:active {
+        background-color: #8FBC8F;
+        box-shadow: 0 3px #66CDAA;
+        transform: translateY(4px);
+    }
+
+.button2 {
+    display: inline-block;
+    padding: 10px 10px;
+    font-size: 13px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #FD391E;
+    background-color: #FFFEE5;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px #EFE1C4;
+}
+
+    .button2:hover {
+        background-color: #D8F5F8;
+    }
+
+    .button2:active {
+        background-color: #D8F5F8;
+        box-shadow: 0 3px #EFE1C4;
+        transform: translateY(4px);
+    }
+
+.button3 {
+    display: inline-block;
+    padding: 10px 10px;
+    font-size: 13px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #FD391E;
+    background-color: #FFA07A;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px #F08080;
+}
+
+    .button3:hover {
+        background-color: #FFFACD;
+    }
+
+    .button3:active {
+        background-color: #FFFACD;
+        box-shadow: 0 3px #EFE1C4;
+        transform: translateY(4px);
+    }
